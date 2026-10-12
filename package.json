@@ -62,10 +62,13 @@
     "confidence-scoring",
     "karpathy"
   ],
-  "homepage": "https://github.com/anzal1/quicky-wiki#readme",
+  "homepage": "https://github.com/halleylabs/quicky-wiki#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anzal1/quicky-wiki.git"
+    "url": "git+https://github.com/halleylabs/quicky-wiki.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halleylabs/quicky-wiki/issues"
+  }
 }

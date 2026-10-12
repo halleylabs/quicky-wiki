@@ -1,5 +1,7 @@
 # ⚡ Quicky Wiki
 
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
 **Turn any collection of documents into a living, confidence-scored knowledge base — powered by LLMs.**
 
 Quicky Wiki extracts claims from your sources, tracks how confident each claim is, watches for contradictions, and gives you a visual dashboard to explore everything. Think of it as a personal Wikipedia that actually tells you what it's unsure about.
